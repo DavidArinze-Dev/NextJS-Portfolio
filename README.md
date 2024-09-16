@@ -14,7 +14,7 @@ This is a portfolio website built with Next.js and Tailwind CSS. It showcases yo
 2. Open your browser and visit `http://localhost:3000` to view the website.
 
 ## Dependencies
-
+  
 The following dependencies are required for this project:
 
 - Next.js: A React framework for server-side rendering and static site generation.

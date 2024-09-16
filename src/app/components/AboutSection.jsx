@@ -18,6 +18,7 @@ const TAB_DATA = [
       </ul>
     ),
   },
+  
   {
     title: "Education",
     id: "education",
